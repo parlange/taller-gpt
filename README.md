@@ -29,7 +29,7 @@ Resume el artículo que subí en menos de 100 palabras
 
 #### Prompt para extraer métricas
 ```
-¿Qué métricas usan en el artículo para evaluar su método?
+¿Qué métricas se usan en el artículo para evaluar el método?
 ```
 
 #### Prompt para extraer resultados
