@@ -9,8 +9,7 @@
 #### ChatGPT 4o (versión de paga)
 https://chatgpt.com/
 
-#### Subir documento en PDF arrastrando archivo al chat
-Acción: 📤 Subir documento en PDF 📄
+#### 📤 Subir documento en PDF 📄 arrastrando archivo al chat
 
 
 #### Prompt para síntesis de artículos
@@ -28,16 +27,18 @@ Resume el artículo que subí en menos de 100 palabras, para una publicación de
 ¿Qué conjunto de datos se usa en los experimentos?
 ```
 
-#### Prompt para extraer resultados
+#### Prompt para extraer métricas
 ```
 ¿Qué métricas usan en el artículo para evaluar su método?
 ```
+
+#### Prompt para extraer resultados
 
 ```
 ¿Cuáles son los resultados de los experimentos?
 ```
 
-📝 Article Synthesis Custom GPT: https://chatgpt.com/g/g-EuD11oYDz-article-synthesis
+📝 **Article Synthesis Custom GPT**: https://chatgpt.com/g/g-EuD11oYDz-article-synthesis
 
 ---
 
