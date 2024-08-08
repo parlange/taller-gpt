@@ -15,6 +15,7 @@ https://chatgpt.com/
 #### Prompt para síntesis de artículos
 ```
 Resume el artículo que subí en menos de 100 palabras
+```
 
 #### Prompt para extraer método
 ```
@@ -32,7 +33,6 @@ Resume el artículo que subí en menos de 100 palabras
 ```
 
 #### Prompt para extraer resultados
-
 ```
 ¿Cuáles son los resultados de los experimentos?
 ```
