@@ -14,12 +14,11 @@ https://chatgpt.com/
 
 #### Prompt para síntesis de artículos
 ```
-Resume el artículo que subí en menos de 100 palabras, para una publicación de 
-```
+Resume el artículo que subí en menos de 100 palabras
 
 #### Prompt para extraer método
 ```
-¿Qué método de aprendizaje automático usan en el artículo?
+¿Qué método se usa en el artículo?
 ```
 
 #### Prompt para extraer dataset
